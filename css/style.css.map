@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../sass/style.sass","../sass/_mixings.sass","../sass/_variaveis.sass"],"names":[],"mappings":"AAGA;EACI;EACA;;;AAEJ;ECNI;;;ADUJ;EACI;EACA,OEXU;;;AFad;EAGI;EACA,OEfU;;;AFiBd;EACI;EACA;EACA;EACA;;;AAEJ;EACI,YExBU;;;AF0Bd;EACI,YE7BU;;;AF+Bd;EACI,YE9BU;;;AFkCd;EACI;IACI;IACA,OEpCI;IFqCJ;;;AAER;EACI;IACI;IACA,OE7CM;IF8CN","file":"style.css"}
